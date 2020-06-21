@@ -12,7 +12,11 @@ We will run preliminary data analysis on traffic patterns of MTA stations in com
 * Foot traffic
 
 **Methodology:**
+---
 1. Find which stations have the most exits in the morning (7am-11am) during the weekdays
 2. Find which lines pass through that station
 3. Find which neighborhoods on those lines have high median incomes
 4. Find which stations along those lines have relatively low exits
+
+**Results**
+---
