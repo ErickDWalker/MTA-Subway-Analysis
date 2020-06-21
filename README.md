@@ -21,6 +21,6 @@ We first set out to identify the station with the most exits in the morning (def
 ---
 Since we were more concerned with finding an area with incomes capable of sustaining a luxury development than we were with finding low foot traffic, we first identified neighborhoods with relatively high median income levels. The heat map below shows relative income levels (as well as foot traffic) among neighborhoods served by the 4 and 5 subway lines. Median income levels were taken from the [following link](https://ny.curbed.com/2017/8/4/16099252/new-york-neighborhood-affordability), and then scaled to be between zero and one.
 
-![alt text](https://github.com/ErickDWalker/MTA-Subway-Analysis/blob/master/img/S&P500_returns.png?raw=true)
+![alt text](https://github.com/ErickDWalker/MTA-Subway-Analysis/blob/master/img/Income_Entries_Neighborhood_Heatmap.png?raw=true)
 
 We found that the Nevins street station satisfied both of our conditions.
