@@ -1,8 +1,8 @@
 # Real Estate Development Proposal
 
-**Overview**: We are approaching luxury building developers with the proposal of using data-driven analytics to aid in the decision of where to build their next development. 
+**Overview**: For Project 1 in Metis, groups were asked to utilize MTA Subway traffic data to explore a hypothetical business use case. This project is based on the idea of approaching luxury building developers with the proposal of using data-driven analytics to aid in the decision of where to build their next development. 
 
-We will analyze MTA station traffic patterns in combination with looking into key neighborhood characteristics (income, demographics, the presence of other luxury buildings in the area) to make actionable suggestions on where favorable potential building sites could be. 
+By analyzing MTA station traffic patterns and key neighborhood characteristics (income, demographics, the presence of other luxury buildings in the area), the aim is to provide actionable insights around potentially favorable building sites. 
 
 **Factors to consider:**
 ---
@@ -13,10 +13,10 @@ We will analyze MTA station traffic patterns in combination with looking into ke
 
 **Methodology:**
 ---
-1. Find which stations have the most exits in the morning (7am-11am) during the weekdays
-2. Find which lines pass through that station
-3. Find which neighborhoods on those lines have high median incomes
-4. Find which stations along those lines have relatively low exits
+We first set out to identify the station with the most exits in the morning (defined as 7-11am) during the weekdays. By doing this, we could get a sense for the station that is heavily utilized by commuters looking to get to work in the morning. We then explored the lines that pass through that station, with the goal of finding stations that are linked to the station identified in the first step, and that satisfy two criteria:
+1. They are located within neighborhoods with relatively high median incomes, and 
+2. They have relatively low number of entrances during work day mornings (again defined as 7-11am)
 
 **Results**
 ---
+We found that the Nevins street station satisfied both of our conditions.
