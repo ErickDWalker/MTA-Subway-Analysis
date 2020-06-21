@@ -7,7 +7,7 @@ By analyzing MTA station traffic patterns and key neighborhood characteristics (
 
 **Data**
 ---
-Turnstile data was pulled from the [MTA site](http://web.mta.info/developers/turnstile.html). Since we were more interested in recent traffic patterns, as opposed to broad trends over extensive periods of time, we selected data from the September - November, 2019 three-month period.
+Turnstile data was pulled from the [MTA site](http://web.mta.info/developers/turnstile.html). Since we were more interested in recent traffic patterns, as opposed to broad trends over extensive periods of time, we selected data from the September - November 2019, three-month period. We left out December to exclude any noise that might arise from holiday traffic patterns.
 
 **Methodology**
 ---
