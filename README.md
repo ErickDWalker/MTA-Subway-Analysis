@@ -6,10 +6,10 @@ We will run preliminary data analysis on traffic patterns of MTA stations in com
 
 **Factors to consider:**
 ---
-Proximity to a subway stop
-Proximity to a favorable line 
-Journey time to areas with high office building density in most profitable sectors
-Foot traffic
+* Proximity to a subway stop
+* Proximity to a favorable line 
+* Journey time to areas with high office building density in most profitable sectors
+* Foot traffic
 
 **Methodology:**
 1. Find which stations have the most exits in the morning (7am-11am) during the weekdays
