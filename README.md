@@ -1,6 +1,8 @@
 # Real Estate Development Proposal
 
-**Overview** For Project 1 in Metis, groups were asked to utilize MTA Subway traffic data to explore a hypothetical business use case. This project is based on the idea of approaching luxury building developers with the proposal of using data-driven analytics to aid in the decision of where to build their next development. 
+**Overview**
+---
+For Project 1 in the Metis bootcamp, groups were asked to utilize MTA Subway traffic data to explore a hypothetical business use case. This project is based on the idea of approaching luxury building developers with the proposal of using data-driven analytics to aid in the decision of where to build their next development. 
 
 By analyzing MTA station traffic patterns and key neighborhood characteristics (income, demographics, the presence of other luxury buildings in the area), the aim is to provide actionable insights that can assist in identifying potentially favorable building sites. 
 
