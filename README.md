@@ -1,8 +1,8 @@
 # Real Estate Development Proposal
 
-Backstory: We are approaching luxury building developers with the proposal of using data-driven analytics to aid in the decision of where to build their next development. 
+**Overview**: We are approaching luxury building developers with the proposal of using data-driven analytics to aid in the decision of where to build their next development. 
 
-We will run preliminary data analysis on traffic patterns of MTA stations in combination with key neighborhood characteristics (income, demographics, the presence of other luxury buildings in the area, bar and restaurant types and density) to make actionable suggestions on where favorable potential building sites could be. 
+We will analyze MTA station traffic patterns in combination with looking into key neighborhood characteristics (income, demographics, the presence of other luxury buildings in the area) to make actionable suggestions on where favorable potential building sites could be. 
 
 **Factors to consider:**
 ---
