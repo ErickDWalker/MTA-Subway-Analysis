@@ -13,10 +13,14 @@ By analyzing MTA station traffic patterns and key neighborhood characteristics (
 
 **Methodology:**
 ---
-We first set out to identify the station with the most exits in the morning (defined as 7-11am) during the weekdays. By doing this, we could get a sense for the station that is heavily utilized by commuters looking to get to work in the morning. We then explored the lines that pass through that station, with the goal of finding stations that are linked to the station identified in the first step, and that satisfy two criteria:
+We first set out to identify the station with the most exits in the morning (defined as 7-11am) during the weekdays. By doing this, we could get a sense for the station that is heavily utilized by commuters looking to get to work in the morning. We then explored the lines that pass through that station, with the goal of finding stations that are linked to the station identified in the first step, and that satisfy two criteria (listed in order of importance):
 1. They are located within neighborhoods with relatively high median incomes, and 
 2. They have relatively low number of entrances during work day mornings (again defined as 7-11am)
 
 **Results**
 ---
+Since we were more concerned with finding an area with incomes capable of sustaining a luxury development than we were with finding low foot traffic, we first identified neighborhoods with relatively high median income levels. The heat map below shows relative income levels (as well as foot traffic) among neighborhoods served by the 4 and 5 subway lines. Median income levels were taken from the [following link](https://ny.curbed.com/2017/8/4/16099252/new-york-neighborhood-affordability), and then scaled to be between zero and one.
+
+![alt text](https://github.com/ErickDWalker/MTA-Subway-Analysis/blob/master/img/S&P500_returns.png?raw=true)
+
 We found that the Nevins street station satisfied both of our conditions.
