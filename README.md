@@ -23,4 +23,8 @@ Since we were more concerned with finding an area with incomes capable of sustai
 
 ![alt text](https://github.com/ErickDWalker/MTA-Subway-Analysis/blob/master/img/Income_Entries_Neighborhood_Heatmap.png?raw=true)
 
-We found that the Nevins street station satisfied both of our conditions.
+Downtown Brooklyn emerged as the neighborhood with the highest relative median income. Though it also appeared to have the highest entries, this number represents an aggreagation of multiple stations, and so can be misleading. To get around the aggregation issue, we then looked at the weekday morning turnstile entrances for individual stations. 
+
+![alt text](https://github.com/ErickDWalker/MTA-Subway-Analysis/blob/master/img/Income_Entries_Station_Heatmap.png?raw=true)
+
+Among the downtown Brookly stations, we found that the Nevins street station best satisfied both of our conditions.
