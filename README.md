@@ -13,7 +13,7 @@ Turnstile data was pulled from the [MTA site](http://web.mta.info/developers/tur
 
 **Methodology**
 ---
-We first set out to identify the station with the most turnstile exits in the morning (defined as 7-11am) during the weekdays. By doing this, we could get a sense for the station that is heavily utilized by commuters looking to get to work in the morning. We then explored the lines that pass through that station, with the goal of finding stations that are linked to the station identified in the first step, and that satisfy two criteria (listed in order of importance):
+We first set out to identify the station with the most turnstile exits in the morning (defined as 7-11am) during the weekdays. By doing this, we could get a sense for the station that is heavily utilized by commuters looking to get to work in the morning. Next we explored the subway lines that pass through that "top commuter" station, with the goal of finding stations along those lines that satisfy two criteria (listed in order of importance):
 1. They are located within neighborhoods with relatively high median incomes, and 
 2. They have relatively low number of entrances during work day mornings (again defined as 7-11am)
 
