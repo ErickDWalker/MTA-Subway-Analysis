@@ -22,7 +22,7 @@ We first set out to identify the station with the most turnstile exits in the mo
 ---
 Since we were more concerned with finding an area with incomes capable of sustaining a luxury development than we were with finding low foot traffic, we first identified neighborhoods with relatively high median income levels. The heat map below shows relative income levels (as well as foot traffic) among neighborhoods served by the 4 and 5 subway lines. Median income levels were taken from the [following link](https://ny.curbed.com/2017/8/4/16099252/new-york-neighborhood-affordability), and then scaled to be between zero and one.
 
-![alt text](https://github.com/ErickDWalker/MTA-Subway-Analysis/blob/master/img/Income_Entries_Neighborhood_Heatmap.png?raw=true)
+<img src="https://github.com/ErickDWalker/MTA-Subway-Analysis/blob/master/img/Income_Entries_Neighborhood_Heatmap.png" width="900" height="500">
 
 Downtown Brooklyn emerged as the neighborhood with the highest relative median income. Though it also appeared to have the highest entries, this number represents an aggreagation of multiple stations, and so can be misleading. To get around the aggregation issue, we then looked at the weekday morning turnstile entrances for individual stations. 
 
