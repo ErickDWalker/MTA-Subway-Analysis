@@ -28,4 +28,4 @@ Downtown Brooklyn emerged as the neighborhood with the highest relative median i
 
 <img src="https://github.com/ErickDWalker/MTA-Subway-Analysis/blob/master/img/Income_Entries_Station_Heatmap.png" width="900" height="500">
 
-Among the downtown Brooklyn stations, we found that the Nevins street station best satisfied both of our conditions, and ultimately was the location we chose as our recommendation to our hypothetical "client." 
+Among the downtown Brooklyn stations, we found that the Nevins street station best satisfied both of our conditions, and ultimately was the location we chose as our recommendation to the hypothetical "client." 
